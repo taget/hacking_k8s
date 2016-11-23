@@ -18,6 +18,8 @@ $ kubeadm join --token=52df86.88816a5c5eae2d9c 10.0.0.16
 ```
 
 ## join node
+On each node
+
 ```
 $ kubeadm join --token=52df86.88816a5c5eae2d9c 10.0.0.16
 ```
