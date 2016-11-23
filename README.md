@@ -1,7 +1,10 @@
 # hacking_k8s
 
 ## Install docker k8s first
-./install_k8s.sh
+
+```
+# ./install_k8s.sh
+```
 
 ## init master controller
 On Master node, run as root user
